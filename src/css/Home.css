@@ -1,0 +1,27 @@
+.App-logo{
+    width: 100%;
+}
+.Container-App{
+    background-color: rgb(18, 24, 26);
+    padding:10px;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+  
+}
+.Container-App h1{
+    margin:10px;
+    width: 50%;
+}
+.section{
+    /*border:2px solid white;*/
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    gap:30px;
+    padding:30px;
+    background: url('../imagenes/background-amarillo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
