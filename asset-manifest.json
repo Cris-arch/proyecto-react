@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.e988afc2.css",
-    "main.js": "/static/js/main.3c7b44c4.js",
-    "static/js/453.f44bac6c.chunk.js": "/static/js/453.f44bac6c.chunk.js",
-    "static/media/background.jpg": "/static/media/background.691ce926039ecd598488.jpg",
-    "static/media/mercado_libre.webp": "/static/media/mercado_libre.4fa17bbd91abe875a8be.webp",
-    "static/media/background-amarillo.jpg": "/static/media/background-amarillo.920291169679a2f30618.jpg",
-    "index.html": "/index.html",
-    "main.e988afc2.css.map": "/static/css/main.e988afc2.css.map",
-    "main.3c7b44c4.js.map": "/static/js/main.3c7b44c4.js.map",
-    "453.f44bac6c.chunk.js.map": "/static/js/453.f44bac6c.chunk.js.map"
+    "main.css": "/proyecto-react/static/css/main.2bbd8729.css",
+    "main.js": "/proyecto-react/static/js/main.87e9ba6e.js",
+    "static/js/453.f44bac6c.chunk.js": "/proyecto-react/static/js/453.f44bac6c.chunk.js",
+    "static/media/background.jpg": "/proyecto-react/static/media/background.691ce926039ecd598488.jpg",
+    "static/media/mercado_libre.webp": "/proyecto-react/static/media/mercado_libre.4fa17bbd91abe875a8be.webp",
+    "static/media/background-amarillo.jpg": "/proyecto-react/static/media/background-amarillo.920291169679a2f30618.jpg",
+    "index.html": "/proyecto-react/index.html",
+    "main.2bbd8729.css.map": "/proyecto-react/static/css/main.2bbd8729.css.map",
+    "main.87e9ba6e.js.map": "/proyecto-react/static/js/main.87e9ba6e.js.map",
+    "453.f44bac6c.chunk.js.map": "/proyecto-react/static/js/453.f44bac6c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e988afc2.css",
-    "static/js/main.3c7b44c4.js"
+    "static/css/main.2bbd8729.css",
+    "static/js/main.87e9ba6e.js"
   ]
 }
